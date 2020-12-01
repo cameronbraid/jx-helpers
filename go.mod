@@ -39,7 +39,7 @@ require (
 	k8s.io/api v0.19.2
 	k8s.io/apimachinery v0.19.2
 	k8s.io/client-go v0.19.2
-	k8s.io/helm v2.16.10+incompatible
+	k8s.io/helm v2.17.0+incompatible
 	k8s.io/kube-openapi v0.0.0-20200923155610-8b5066479488 // indirect
 	k8s.io/kubernetes v1.14.7
 	sigs.k8s.io/kustomize/kyaml v0.6.1
